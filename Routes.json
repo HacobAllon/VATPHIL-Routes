@@ -1,0 +1,544 @@
+{
+  "valid": "08NOV2025",
+  "data": [
+    {
+      "dept": "RPLL",
+      "dest": "RPUO",
+      "acft": "Any",
+      "route": "CAB B463 LAO DCT",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPUO",
+      "acft": "Any",
+      "route": "CAB W1 CUY DCT",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPLI",
+      "acft": "Any",
+      "route": "CAB B462 ESSYL",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPUT",
+      "acft": "Any",
+      "route": "CAB W1 CUY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPLC",
+      "acft": "Any",
+      "route": "OLIVA",
+      "notes": "Max 7000ft"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPUN",
+      "acft": "Any",
+      "route": "TIMON W15 RAGAY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPUV",
+      "acft": "Any",
+      "route": "TIMON W15 RAGAY W15A NGA",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPLK",
+      "acft": "Any",
+      "route": "TIMON W15 RAGAY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVE",
+      "acft": "Any",
+      "route": "VERDE W24 TAPER",
+      "notes": "FL210 or Higher for Jets"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVK",
+      "acft": "Any",
+      "route": "VERDE W24 TAPER",
+      "notes": "FL210 or Higher for Jets"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVR",
+      "acft": "Any",
+      "route": "CONDE W11 SAGAM TR16 SIBUN",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVI",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 BEDER",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVB",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 BEDER",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVA",
+      "acft": "Any",
+      "route": "IPATA B462 ARREX",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVM",
+      "acft": "Non-Jet Only",
+      "route": "IPATA B462 MASBA W8 BATAY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVM",
+      "acft": "Jet Only",
+      "route": "IPATA W25 BATAY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPSP",
+      "acft": "Any",
+      "route": "IPATA W25 BATAY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVD",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 NANAS",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVP",
+      "acft": "Any",
+      "route": "BUCAL M646 NOMYO",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPEN",
+      "acft": "Any",
+      "route": "BUCAL M646 TOKON",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPSV",
+      "acft": "Any",
+      "route": "BUCAL M646 TOKON",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPVV",
+      "acft": "Any",
+      "route": "BUCAL M646 OLRAX",
+      "notes": "IFR to VFR"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPME",
+      "acft": "Any",
+      "route": "CONDE W11 MCT W14 JARED",
+      "notes": "Max FL250"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPME",
+      "acft": "Any",
+      "route": "IPATA B462 MASBA W9 BANWA",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMY",
+      "acft": "Any",
+      "route": "IPATA W25 BATAY W8 MCT W6A SAGOL",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMO",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 ALDIN",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMG",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 ALDIN",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMP",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 ALDIN",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMC",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 ALDIN",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMZ",
+      "acft": "Any",
+      "route": "VERDE A461 TINDO",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMD",
+      "acft": "Any",
+      "route": "IPATA B462 MASBA W9A BN W9 RIMAR",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMR",
+      "acft": "Any",
+      "route": "VERDE A461 SAJ W3 IOO B472 COT W19 MELBY",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPMS",
+      "acft": "Any",
+      "route": "IPATA B462 SADOK",
+      "notes": ""
+    },
+    {
+      "dept": "RPLL",
+      "dest": "RPNS",
+      "acft": "Any",
+      "route": "IPATA B462 SADOK",
+      "notes": ""
+    },
+    {
+      "dept": "RPUO",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "LAO M646 SANRO W4 NABAL",
+      "notes": ""
+    },
+    {
+      "dept": "RPLI",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "MELAN M646 SANRO W4 NABAL",
+      "notes": ""
+    },
+    {
+      "dept": "RPUT",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "CUY W1 CAB",
+      "notes": ""
+    },
+    {
+      "dept": "RPLC",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "OLIVA",
+      "notes": "Max 8000ft"
+    },
+    {
+      "dept": "RPUN",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "MEXOL W9 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "RPUV",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "NGA W15 AKDAP",
+      "notes": "VFR to IFR"
+    },
+    {
+      "dept": "RPLK",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "NGA W15 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "RPVE",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "MINOR B473 LAIYA",
+      "notes": "Max FL260"
+    },
+    {
+      "dept": "RPVR",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "MINOR B473 LAIYA",
+      "notes": "Max FL260"
+    },
+    {
+      "dept": "RPVI",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "LAMBO B462 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPVB",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "GALIA TR8 KLO TR19 MINOR B473 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPVA",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "MALAG W9 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPLL",
+      "acft": "Jet Only",
+      "route": "MULOP W11 CONDE",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPLL",
+      "acft": "Non-Jet Only",
+      "route": "PARAO W6A ROX B473 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPVP",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "DABOY W281 LEGED N884 LUBAN",
+      "notes": ""
+    },
+    {
+      "dept": "RPSP",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "LAMOK B473 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPVD",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "NANAS B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPEN",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "TOKON M767 TELEN BUCAL",
+      "notes": ""
+    },
+    {
+      "dept": "RPSV",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "TOKON M767 TELEN BUCAL",
+      "notes": ""
+    },
+    {
+      "dept": "RPVV",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "TELEN W3 OLRAX M646",
+      "notes": ""
+    },
+    {
+      "dept": "RPME",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "JARED W14 MCT W11 CONDE",
+      "notes": ""
+    },
+    {
+      "dept": "RPMY",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "LIRYX B462 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPMO",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ALDIN B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMG",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ALDIN B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMP",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ALDIN B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMC",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ALDIN B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMZ",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "BURCO W3 IOO B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ANKIN B473 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPMR",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "LATIA W6 LUMVI B473 LAIYA",
+      "notes": ""
+    },
+    {
+      "dept": "RPMS",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "TAC W9 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "RPNS",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "TAC W9 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPMD",
+      "acft": "Any",
+      "route": "BAMPA W14 BN W9 RIMAR",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPVE",
+      "acft": "Any",
+      "route": "KEVAN TR2 BCD TR8 KLO",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPVI",
+      "acft": "Any",
+      "route": "PARAO W6A KADSO",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPVB",
+      "acft": "Any",
+      "route": "PARAO W6A KADSO",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPVA",
+      "acft": "Any",
+      "route": "POXOS",
+      "notes": ""
+    },
+    {
+      "dept": "RPVM",
+      "dest": "RPVP",
+      "acft": "Any",
+      "route": "KEVAN TR2 BCD TR6 IOO W17 ZENNY",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVM",
+      "acft": "Any",
+      "route": "JOFER W8 BOHOL",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVE",
+      "acft": "Any",
+      "route": "ANKIN B473 KARPU TR2 BCD TR8 KLO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVI",
+      "acft": "Any",
+      "route": "JOFER W8 MCT W6A KADSO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVB",
+      "acft": "Any",
+      "route": "JOFER W8 MCT W6A KADSO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVA",
+      "acft": "Any",
+      "route": "RIMAR W9 BANWA",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
+      "dest": "RPVP",
+      "acft": "Any",
+      "route": "ANKIN B473 LUMVI W7 IOO W17 ZENNY",
+      "notes": ""
+    }
+  ]
+}
