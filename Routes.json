@@ -5,7 +5,7 @@
       "dept": "RPLL",
       "dest": "RPUO",
       "acft": "Any",
-      "route": "CAB B463 LAO DCT",
+      "route": "CAB B462 LAO",
       "notes": "IFR to VFR"
     },
     {
@@ -166,7 +166,7 @@
       "dept": "RPLL",
       "dest": "RPME",
       "acft": "Any",
-      "route": "IPATA B462 MASBA W9 BANWA",
+      "route": "IPATA B462 TAC W9 BANWA",
       "notes": ""
     },
     {
@@ -278,14 +278,14 @@
       "dept": "RPUV",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "NGA W15 AKDAP",
+      "route": "NGA W9 AKDAP",
       "notes": "VFR to IFR"
     },
     {
       "dept": "RPLK",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "NGA W15 AKDAP",
+      "route": "NGA W9 AKDAP",
       "notes": ""
     },
     {
@@ -306,7 +306,7 @@
       "dept": "RPVI",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "LAMBO B462 IBAGO",
+      "route": "LAMBO B472 IBAGO",
       "notes": ""
     },
     {
@@ -390,7 +390,7 @@
       "dept": "RPMY",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "LIRYX B462 LAIYA",
+      "route": "LIRYX B473 LAIYA",
       "notes": ""
     },
     {
