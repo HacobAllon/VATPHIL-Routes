@@ -3,6 +3,34 @@
   "data": [
     {
       "dept": "RPLL",
+      "dest": "VHHH",
+      "acft": "Any",
+      "route": "CAB A461 NOMAN V533 BETTY",
+      "notes": "FLAS FL300 FL340 FL380"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "VMMC",
+      "acft": "Any",
+      "route": "BETEL M765 EXOLO W3 AKOTA A583 SABNO DCT TOFEE DCT SUKER DCT ALDOM J103 ROBIN DCT CHALI",
+      "notes": "FLAS FL300 FL340 FL380"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "VHHX",
+      "acft": "Any",
+      "route": "CAB A461 NOMAN",
+      "notes": "FLAS FL300 FL340 FL380"
+    },
+    {
+      "dept": "RPLL",
+      "dest": "ZGSZ",
+      "acft": "Any",
+      "route": "SIRCA L628 DODUS W3 AKOTA A583 SABNO DCT TOFEE DCT SUKER DCT ALDOM J103 ROBIN DCT ALLEY DCT GOBBI DCT LANDA",
+      "notes": "FLAS FL300 FL340 FL380"
+    },
+    {
+      "dept": "RPLL",
       "dest": "RPUO",
       "acft": "Any",
       "route": "CAB B462 LAO",
@@ -75,7 +103,7 @@
       "dept": "RPLL",
       "dest": "RPVR",
       "acft": "Any",
-      "route": "CONDE W11 SAGAM TR16 SIBUN",
+      "route": "IPATA DCT SAGAM TR16 SIBUN",
       "notes": ""
     },
     {
