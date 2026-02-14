@@ -535,6 +535,13 @@
     },
     {
       "dept": "RPMD",
+      "dest": "RPMZ",
+      "acft": "Any",
+      "route": "LATIA W10A COT W10 GOSTO",
+      "notes": ""
+    },
+    {
+      "dept": "RPMD",
       "dest": "RPVE",
       "acft": "Any",
       "route": "ANKIN B473 KARPU TR2 BCD TR8 KLO",
