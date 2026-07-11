@@ -1,5 +1,5 @@
 {
-  "valid": "08NOV2025",
+  "valid": "12JUL2026",
   "data": [
     {
       "dept": "RPLL",
@@ -285,8 +285,8 @@
       "dept": "RPUT",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "CUY W1 CAB",
-      "notes": ""
+      "route": "LAMUT W271 CAB",
+      "notes": "per AIP 1.2.14"
     },
     {
       "dept": "RPLC",
@@ -482,6 +482,111 @@
       "dest": "RPLL",
       "acft": "Any",
       "route": "TAC W9 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM POTIB",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "POTIB M646 SANRO W4 NABAL",
+      "notes": "Even altitudes"
+    },
+    {
+      "dept": "FLIGHTS FROM ARESI",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "ARESI L628 GUKUM LUBAN",
+      "notes": "FL 330, 370, 410 "
+    },
+    {
+      "dept": "FLIGHTS FROM NOMAN",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "NOMAN A461 AVMUP W16 TADEL",
+      "notes": "FL 290, 330, 370, 410"
+    },
+    {
+      "dept": "FLIGHTS FROM NOMAN",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "NOMAN A461 AVMUP W16 TATIL W16A NABAL",
+      "notes": "FL 290, 330, 370, 410"
+    },
+    {
+      "dept": "FLIGHTS FROM BISIG",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "BISIG A582 PIBEM POLIO",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM GURAG",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "GURAG A590 MUPOB Z153 POLIO",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM OSANU",
+      "dest": "RPLL",
+      "acft": "Any",
+      "route": "OSANU M646 TOKON LUBAN",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM OSANU",
+      "dest": "RPLL",
+      "acft": "Non-Jet Only",
+      "route": "OSANU M646 BUCAL",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM PANDI",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "PANDI M765 REKEL LUBAN",
+      "notes": "from M765 - FL290 and FL370. From N500 - FL330"
+    },
+    {
+      "dept": "FLIGHTS FROM LAXOR",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "LAXOR N884 LUBAN",
+      "notes": "FL310, 320, 350, 360, 390, 400"
+    },
+    {
+      "dept": "FLIGHTS FROM PEDNO",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "PEDNO R590 COT B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS AWY W8",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "W8 AKDAP",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM MEVIN",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "MEVIN B462 CAB",
+      "notes": "FL300, FL340, FL380"
+    },
+    {
+      "dept": "FLIGHTS FROM PEDNO",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "SELSO B472 IBAGO",
+      "notes": ""
+    },
+    {
+      "dept": "FLIGHTS FROM ELNIT",
+      "dest": "RPLL",
+      "acft": "",
+      "route": "ELNIT B473 LAIYA",
       "notes": ""
     },
     {
