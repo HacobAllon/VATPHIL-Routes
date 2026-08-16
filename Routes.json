@@ -1,5 +1,5 @@
 {
-  "valid": "08NOV2025",
+  "valid": "16AUG2026",
   "data": [
     {
       "dept": "RPLL",
@@ -460,7 +460,7 @@
       "dept": "RPMD",
       "dest": "RPLL",
       "acft": "Any",
-      "route": "ANKIN B473 LAIYA",
+      "route": "ANOXI B473 LAIYA",
       "notes": ""
     },
     {
@@ -544,7 +544,7 @@
       "dept": "RPMD",
       "dest": "RPVE",
       "acft": "Any",
-      "route": "ANKIN B473 KARPU TR2 BCD TR8 KLO",
+      "route": "ANOXI B473 KARPU TR2 BCD TR8 KLO",
       "notes": ""
     },
     {
@@ -572,7 +572,7 @@
       "dept": "RPMD",
       "dest": "RPVP",
       "acft": "Any",
-      "route": "ANKIN B473 LUMVI W7 IOO W17 ZENNY",
+      "route": "ANOXI B473 LUMVI W7 IOO W17 ZENNY",
       "notes": ""
     }
   ]
